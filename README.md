@@ -32,7 +32,7 @@
 网站图标: https://www.nousbuild.org/icon.png
 浅色图标: https://www.nousbuild.org/images/logo-light.png
 深色图标: https://www.nousbuild.org/images/logo-dark.png
-网站简介: 一个以计算机编程及程序开发、建筑设计、结构设计、平面与UI设计相结合的独特风格站点
+网站简介: 一个以计算机、插画和设计相结合的独特风格个人站点。
 背景颜色: #FFE8E7
 ```
 
@@ -77,7 +77,7 @@
 
 ### 5. 我的叨叨
 
-从今起**取消了必须要 ICP 备案的限制**了，欢迎大家相互交流啊！对了，还有一个布丁笔记簿，你也可以顺手一起申请友链：
+现在**取消了必须要 ICP 备案的限制**，欢迎大家相互交流啊！对了，还有一个布丁笔记簿，你也可以顺手在 [友情链接页面](https://pudding.nousbuild.com/links/) 或 [Issue #4](https://github.com/pudding0503/pudding0503.github.io/issues/4) 中留言申请，按照 Markdown 格式填入你的站点信息。
 
 + 我的笔记博客：[布丁笔记簿](https://pudding.nousbuild.com)
 + 主站友联申请：[https://pudding.nousbuild.com/links/](https://pudding.nousbuild.com/links/)
